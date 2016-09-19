@@ -24,3 +24,7 @@ Features:
 * speed_gps_kph: speed in Km/h of the vehicle at the time of the event
 * latitude: latitude in decimal degrees 
 * longitude: longitude in decimal degrees
+
+
+
+111
